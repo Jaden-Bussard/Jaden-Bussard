@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaden-Bussard
-- 👀 I’m interested in how to create firewalls for large scale companies
+- 👀 I’m interested in the interworkings of cybersecurity
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on large scale projects
 - 📫 How to reach me: email me at jbussard@csumb.edu
